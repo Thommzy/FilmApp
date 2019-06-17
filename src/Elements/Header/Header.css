@@ -1,1 +1,19 @@
-/* No CSS *//*# sourceMappingURL=Header.css.map */
+.rmdb-header {
+  background: #000;
+  height: 50px;
+}
+
+img.rmdb-logo {
+  height: 49px;
+  width: 74px;
+}
+
+img.rmdb-tmdb-logo {
+  height: 49px;
+  width: 74px;
+}
+
+.mainNavbar {
+  background: #000;
+}
+/*# sourceMappingURL=Header.css.map */
